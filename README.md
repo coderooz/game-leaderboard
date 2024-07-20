@@ -48,9 +48,6 @@ This is a Node.js and MongoDB application for managing a game leaderboard. Playe
   }
   ```
 
-## License
-
-This project is licensed under the Private Use License. See the LICENSE.md file for more details.
 
 ## Author
 
@@ -63,4 +60,7 @@ If you would like to contribute to this project, please fork the repository and 
 ## Code of Conduct
 
 Please read the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file for details on our code of conduct.
-```
+
+## License
+
+This project is licensed under the Private Use License. See the LICENSE.md file for more details.
